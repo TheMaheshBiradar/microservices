@@ -9,7 +9,7 @@ Creating cloud config
 3. secure the configuration store access
 
 
-#####1. Local /Git based file system
+<b>1. Local /Git based file system</b>
 
    - Multiple locations possible
    - Supports labelling
