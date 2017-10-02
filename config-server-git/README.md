@@ -16,3 +16,22 @@ spring:
         git:
           uri: https://github.com/TheMaheshBiradar/config-repo.git
        </pre>
+       
+       
+ 
+ URL to access specific file is :
+ 
+    context path /{identifier}/{profile}
+ 
+ 
+ if you have more than one folder you have to specifies 
+ 
+    -searchpaths options
+    
+ you can also have mutliple repos based on identifiers
+ 
+        -repo options
+  
+  config server always returns all the matching values back.
+  i.e application.properties
+ 
