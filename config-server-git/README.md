@@ -26,7 +26,7 @@ spring:
  
  if you have more than one folder you have to specifies 
  
-    -searchpaths options
+    --searchpaths options
     
  you can also have mutliple repos based on identifiers
  
