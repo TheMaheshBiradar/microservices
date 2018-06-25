@@ -9,11 +9,22 @@ Spring cloud config provides central configuration and it helps to manage config
 
 It is HTTP access to git based file configurations
 
-Creating cloud config
 
-configuration points to git repo.
 
-There are many options including encryption and decryption
+
+##### Creating cloud config
+
+-[x] Create config project and check in propoerties file into same.
+    Take a look at `https://github.com/TheMaheshBiradar/config-repo`
+
+##### Creating cloud config server
+
+-[x]  Create a normal spring boot application and select web , config-server dependency while initialization of project
+
+    Take a look at [pom.xml](/pom.xml)
+
+-[x] navigate to application.yml or application.properties file in created file
+
 
    <pre>
 spring:
