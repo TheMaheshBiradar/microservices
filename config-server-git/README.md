@@ -9,12 +9,13 @@ Spring cloud config provides central configuration and it helps to manage config
 
 It is HTTP access to git based file configurations
 
+<img src="https://github.com/TheMaheshBiradar/front-end-techs/blob/master/readme-images/cloud-config-ppt.jpg"/>
 
 
 
 ##### Creating cloud config
 
--[x] Create config project and check in propoerties file into same.
+-[x]  Create config project and check in propoerties file into same.
     Take a look at `https://github.com/TheMaheshBiradar/config-repo`
 
 ##### Creating cloud config server
